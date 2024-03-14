@@ -1,2 +1,4 @@
-# buivanchau_95571_st21a2a_de2
-# buivanchau_95571_st21a2a_de2
+open teminal then:
+- step1: type "npm i"
+- step2: type "npm start"
+- link: http://localhost:8081/
